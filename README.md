@@ -10,6 +10,8 @@ You can download it <a href="https://drive.google.com/file/d/1Uyq1htnexJ6jJns2kg
 <ul>
 <li>Go to about:debugging</li>
 <li>Choose 'This Firefox', press 'Load Temporary Add-on...'</li>
-<li>Choose manifest.json in downloaded folder</li>
+<li>Choose manifest.json in the downloaded folder</li>
 </ul>
 </li>
+
+ 
